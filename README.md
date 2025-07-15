@@ -2,6 +2,8 @@
 
 A React-based Weather App that allows users to search for and view current weather information for any city. The app fetches real-time weather data from the OpenWeatherMap API and displays key weather details such as temperature, weather conditions, and an icon representing the current weather. It features a simple and intuitive user interface with loading and error handling for a smooth user experience.
 
+<img width="1036" height="463" alt="Output1" src="https://github.com/user-attachments/assets/8562ffc8-62bf-4547-b285-c733fd0e2c5d" />
+
 🚀Features
 
 - Search weather by city name
