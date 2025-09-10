@@ -56,10 +56,11 @@ To upload this project to your GitHub account, follow these steps:
 
 Replace `your-username` and `your-repository` with your GitHub username and repository name respectively.
 
-📜 License:
+📜 ## License:
 This project is open source and available under the MIT License.   
 
-👨‍💻 Author
+👨‍💻 ## Author
+
 Developed by Raza Zaheer
 GitHub: @razazaheer12
    
